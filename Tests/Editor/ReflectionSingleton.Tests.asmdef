@@ -1,0 +1,18 @@
+{
+    "name": "ReflectionSingleton.Tests",
+    "rootNamespace": "",
+    "references": [
+        "GUID:15a6ccd3ea70c224791769a7bad00dd4"
+    ],
+    "includePlatforms": [
+        "Editor"
+    ],
+    "excludePlatforms": [],
+    "allowUnsafeCode": false,
+    "overrideReferences": false,
+    "precompiledReferences": [],
+    "autoReferenced": true,
+    "defineConstraints": [],
+    "versionDefines": [],
+    "noEngineReferences": false
+}

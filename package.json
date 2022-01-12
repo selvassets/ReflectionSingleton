@@ -1,0 +1,16 @@
+{
+  "name": "com.selvassets.reflectionsingleton",
+  "displayName": "SA - ReflectionSingleton",
+  "version": "1.0.0",
+  "unity": "2021.1",
+  "description": "ReflectionSingleton implementation by SelvAssets",
+  "keywords": [
+    "unity",
+    "api",
+    "singleton",
+    "assembly",
+    "reflection",
+    "programming"
+  ],
+  "category": "Productivity"
+}
